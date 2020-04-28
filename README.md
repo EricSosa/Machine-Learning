@@ -1,2 +1,2 @@
-# Iris-Dataset-Classification
-This dataset is a classic and fairly simple benchmark for basic machine learning algorithms. It includes different features of three Iris  flower species (setosa, versicolor, virginica).
+# Machine-Learning-Classification
+These jupyter notebooks use machine learning algorithms on well known datasets such as Iris, Wine, and Fashion MNIST.
